@@ -1,0 +1,10 @@
+.env
+*.key
+preview_server.py
+assessment.pdf
+.vscode/
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
